@@ -1,6 +1,8 @@
+pandas
 xgboost
-dash
-transformers==4.33.3
+dash==2.6.0
+transformers==4.30.0
 torch==2.0.0 
 torchvision==0.15.1
 gunicorn
+pip>=21.0.0
