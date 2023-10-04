@@ -1,0 +1,6 @@
+xgboost
+dash
+transformers==4.33.3
+torch==2.0.0 
+torchvision==0.15.1
+gunicorn
